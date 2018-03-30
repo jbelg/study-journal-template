@@ -14,7 +14,7 @@ To Publish:
 * Type "./scripts/publish.sh" from terminal in your Journal directory
 
 Concepts GitBook:
-* Your GitBook will look [something like this](https://elewa-academy.github.io/study-journal-template).
+* Your GitBook will look [something like this](https://elewa-academy.github.io/study-journal-template/).
 
 Quizzes:
 * You will use [this quiz plugin](https://github.com/chudaol/gitbook-plugin-quiz) to write self-review quizzes for your notes.  The quizzes will be live and interactive on your journal's url.

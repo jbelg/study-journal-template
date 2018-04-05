@@ -19,6 +19,7 @@ Concepts GitBook:
 Quizzes:
 * You will use [this quiz plugin](https://github.com/chudaol/gitbook-plugin-quiz) to write self-review quizzes for your notes.  The quizzes will be live and interactive on your journal's url.
 
+
 Directory Structure Explained: 
 ```
 study-journal
